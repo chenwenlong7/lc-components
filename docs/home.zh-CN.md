@@ -3,7 +3,7 @@
     <img class="varlet-introduce__image" src="../public/logo.svg" />
     <div class="varlet-introduce__name">Basic UI</div>  
   </div>
-  <div class="varlet-introduce__des">一个组件库</div>
+  <div class="varlet-introduce__des">一个尝试中的组件库</div>
 </div>
 
 ### 介绍
