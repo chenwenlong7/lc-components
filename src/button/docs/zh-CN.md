@@ -1,17 +1,23 @@
 # 按钮
 
+### 介绍
+
+按钮组件，用于触发操作
+
 ### 基本使用
 ```html
-<b-button>组件库从我开始</b-button>
+<lc-button>基本使用</lc-button>
 ```
 
 ### 主题色按钮
 ```html
-<b-button color="#009688">组件库从我开始</b-button>
-```
-
-```vue
-import ModifyColor from '../example/ModifyColor'
+<template>
+  <lc-button type="primary">主要按钮</lc-button>
+  <lc-button type="info">信息按钮</lc-button>
+  <lc-button type="success">成功按钮</lc-button>
+  <lc-button type="warning">警告按钮</lc-button>
+  <lc-button type="danger">危险按钮</lc-button>
+</template>
 ```
 
 ## API

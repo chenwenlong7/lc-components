@@ -7,5 +7,5 @@ watchLang(use)
 </script>
 
 <template>
-  <b-button>{{ pack.start }}</b-button>
+  <b-button>{{ pack.basicUse }}</b-button>
 </template>
