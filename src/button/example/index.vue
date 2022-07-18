@@ -13,4 +13,12 @@ watchLang(use)
   <basic-use/>
   <app-type>{{ pack.modifyColor }}</app-type>
   <modify-color/>
+  <app-type>{{ pack.textButton }}</app-type>
+  <app-type>{{ pack.disabledStatus }}</app-type>
+  <app-type>{{ pack.loadingStatus }}</app-type>
+  <app-type>{{ pack.buttonSize }}</app-type>
+  <app-type>{{ pack.blockButton }}</app-type>
+  <app-type>{{ pack.customColor }}</app-type>
+  <app-type>{{ pack.roundButton }}</app-type>
+  <app-type>{{ pack.event }}</app-type>
 </template>

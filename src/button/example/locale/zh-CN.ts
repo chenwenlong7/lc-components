@@ -6,5 +6,13 @@ export default {
   infoButton: '信息按钮',
   successButton: '成功按钮',
   warnButton: '警告按钮',
-  dangerButton: '危险按钮'
+  dangerButton: '危险按钮',
+  textButton: '文字按钮',
+  disabledStatus: '禁用状态',
+  loadingStatus: '加载状态',
+  buttonSize: '按钮尺寸',
+  blockButton: '块级按钮',
+  customColor: '自定义颜色',
+  roundButton: '圆形按钮',
+  event: '注册事件',
 }
